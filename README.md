@@ -19,7 +19,7 @@ To run the code in this repository, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/predictive-maintenance-lstm.git
+https://github.com/Akshat12503/Engine-Fault-Detection.git
 cd predictive-maintenance-lstm
 ```
 
